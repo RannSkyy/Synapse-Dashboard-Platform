@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Dashboard Platform",
+  "description": "Next-Gen Enterprise HR, Department & Document Management Dashboard Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
